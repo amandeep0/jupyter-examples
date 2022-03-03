@@ -8,7 +8,7 @@
 [Slate example](./slate): Integrate Jupyter cells in a [Slate](https://www.slatejs.org) document.
 
 <div align="center" style="text-align: center">
-  <img alt="Jupyter React Slate" src="https://jupyter-examples.datalayer.tech/jupyter-react-slate.gif" />
+  <img alt="Jupyter React Slate" src="https://datalayer-jupyter-examples.s3.amazonaws.com/jupyter-react-slate.gif" />
 </div>
 
 ## Docusaurus Example
@@ -16,7 +16,7 @@
 [Docusaurus example](./docusaurus): Integrate a Jupyter cell in a [Docusaurus](https://docusaurus.io) site with [jupyter-docusaurus-plugin](https://github.com/datalayer/jupyter-docusaurus).
 
 <div align="center" style="text-align: center">
-  <img alt="Jupyter React Slate" src="https://jupyter-examples.datalayer.tech/jupyter-react-docusaurus.png" />
+  <img alt="Jupyter React Slate" src="https://datalayer-jupyter-examples.s3.amazonaws.com/jupyter-react-docusaurus.png" />
 </div>
 
 ## JupyterLab
